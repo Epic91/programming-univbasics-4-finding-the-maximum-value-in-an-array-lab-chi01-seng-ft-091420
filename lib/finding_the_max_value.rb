@@ -1,7 +1,6 @@
 def find_max_value(array)
   scale = [2,3,4,5]
-  hill = [1,2,3,4,5,4,3,2,1]
-  valley = [5,4,3,2,1,0,1,2,3,4,5]
+
 
   count = 0
   max_value = -1
